@@ -56,6 +56,25 @@ Cada colaboración institucional dispondrá de un Espacio de Colaboración Públ
 
 El ECP permitirá compartir únicamente la documentación autorizada para esa colaboración, manteniendo completamente separado el funcionamiento interno del ecosistema.
 
+
+## Documentación pública disponible
+
+La siguiente documentación forma parte del Espacio de Colaboración Público (ECP) preparado para Sider.ai.
+
+| Documento | Descripción |
+|-----------|-------------|
+| Guía de Orientación Documental WAIPL–Sider.ai | Documento de bienvenida y guía de navegación del espacio documental. |
+| SD1 · Manual de Implementación | Arquitectura general y propuesta de implementación. |
+| SD2 · Evaluación y Auditoría | Modelo de evaluación, calidad y auditoría. |
+| SD3 · Guía de Capacitación | Proceso de incorporación y formación. |
+| SD4 · Comunicación y Transparencia | Principios y protocolos de comunicación institucional. |
+| SD5 · Resolución de Conflictos | Procedimientos para gestión y resolución de incidencias. |
+| SD6 · Actualización y Evolución | Ciclo de mejora continua y mantenimiento documental. |
+| SD7 · Roles y Responsabilidades | Definición de funciones y responsabilidades. |
+| SD8 · Integración con Sistemas Externos | Integración con plataformas y servicios externos. |
+| SD9 · Informe de Impacto Ético | Consideraciones éticas y marco de gobernanza. |
+
+
 ---
 
 ## Principios
