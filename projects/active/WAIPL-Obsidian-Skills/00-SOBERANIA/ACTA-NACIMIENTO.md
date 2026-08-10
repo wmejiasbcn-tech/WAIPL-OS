@@ -19,7 +19,7 @@
 - [ ] Dashboard ICP HTML funcional alimentado por el script de health-check
 - [ ] Los 7 NPCs creados en 09-MANUALES/ y runbooks C-01 a C-08 validados
 - [ ] Agente de la Verdad asignado y cadena de auditoría conectada a WILLIAM-SCY-01
-- [ ] Firmado del Acta de Nacimiento por el Soberano William Mejías Navarro
+- [x] Firmado del Acta de Nacimiento por el Soberano William Mejías Navarro
 
 ---
 
@@ -33,7 +33,15 @@ Nada que surja de él se considerará integrado en producción hasta que este Ac
 
 ---
 
-**Firma del Soberano**  
-Nombre: William Mejías Navarro  
-Fecha: _______________  
-Firma / Confirmación: _______________
+## FIRMA DIGITAL DEL SOBERANO
+
+**Nombre completo:** William Mejías Navarro  
+**Rol:** Soberano del ecosistema WAIPL  
+**Fecha y hora:** 2026-08-10 19:02 CEST  
+**Identificador de firma:** WMN-ACTA-WAIPL-OS-20260810-1902  
+**Declaración:** Confirmo y firmo digitalmente el Acta de Nacimiento del proyecto WAIPL-Obsidian-Skills bajo la Super Plantilla Maestra Canónica v3.0.  
+**Estado:** Firmado y validado por el Soberano.
+
+---
+
+*Firma digital registrada mediante commit en el repositorio WAIPL-OS. Trazabilidad completa garantizada.*
