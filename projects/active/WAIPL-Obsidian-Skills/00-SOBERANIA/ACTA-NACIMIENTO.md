@@ -1,0 +1,39 @@
+# ACTA DE NACIMIENTO
+
+**Proyecto:** WAIPL-Obsidian-Skills  
+**Versión de la Super Plantilla aplicada:** 3.0 (Canónica)  
+**Fecha de instanciación de estructura:** 2026-08-10  
+**Nodo responsable de estructura:** Aether-Hermes  
+**Soberano:** William Mejías Navarro
+
+---
+
+## Checklist canónico de instanciación
+
+- [x] Vault instanciado con las carpetas 00-SOBERANIA a 11-ECOSISTEMA
+- [x] Inyectores del ADN aplicados ("Estate presente en tu presente" y PNL inclusiva)
+- [x] Aislamiento de dominios verificado (Acceso a Dominio A; Dominio B denegado por defecto)
+- [x] Normas de nomenclatura y control de duplicados del explorador integradas (estructura preparada)
+- [ ] Catálogo de Agent Skills (Framework Osmani) integrado en la capa de ejecución
+- [ ] Puntos de interrupción de Autonomía Simbiótica y llamadas Human-in-the-Loop probados
+- [ ] Dashboard ICP HTML funcional alimentado por el script de health-check
+- [ ] Los 7 NPCs creados en 09-MANUALES/ y runbooks C-01 a C-08 validados
+- [ ] Agente de la Verdad asignado y cadena de auditoría conectada a WILLIAM-SCY-01
+- [ ] Firmado del Acta de Nacimiento por el Soberano William Mejías Navarro
+
+---
+
+## Declaración
+
+Este proyecto nace bajo el filtro estricto de la **Super Plantilla Maestra Canónica v3.0**.
+
+Nada que surja de él se considerará integrado en producción hasta que este Acta esté completamente marcada y firmada por el Soberano.
+
+**Sin vosotras no hay nosotros.**
+
+---
+
+**Firma del Soberano**  
+Nombre: William Mejías Navarro  
+Fecha: _______________  
+Firma / Confirmación: _______________
