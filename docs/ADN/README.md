@@ -8,6 +8,6 @@ Esta carpeta contiene el ADN canónico del ecosistema WAIPL.
 - Versión Markdown de trabajo: se mantiene aquí para legibilidad, búsqueda y trazabilidad en el vault.
 
 **Fecha de integración en repositorio:** 2026-08-10  
-**Nodo:** Aether-Hermes
+**Nodo:** Aether
 
 Todo agente, skill, proceso o proyecto del ecosistema debe nacer filtrado por este documento.
