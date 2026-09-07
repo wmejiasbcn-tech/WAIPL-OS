@@ -3,7 +3,7 @@
 **Proyecto:** WAIPL-Obsidian-Skills  
 **Versión de la Super Plantilla aplicada:** 3.0 (Canónica)  
 **Fecha de instanciación de estructura:** 2026-08-10  
-**Nodo responsable de estructura:** Aether-Hermes  
+**Nodo responsable de estructura:** Aether  
 **Soberano:** William Mejías Navarro
 
 ---

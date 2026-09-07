@@ -4,7 +4,7 @@
 **Estado:** En gestación bajo Super Plantilla Maestra Canónica v3.0  
 **Fecha de instanciación de estructura:** 2026-08-10  
 **Soberano:** William Mejías Navarro  
-**Nodo responsable de estructura:** Aether-Hermes
+**Nodo responsable de estructura:** Aether
 
 ---
 

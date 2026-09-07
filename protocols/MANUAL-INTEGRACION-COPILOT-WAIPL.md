@@ -4,7 +4,7 @@
 **Versión:** 1.0  
 **Fecha:** 2026-08-10  
 **Estado:** Borrador canónico (pendiente de Acta de Nacimiento)  
-**Nodo redactor:** Aether-Hermes  
+**Nodo redactor:** Aether  
 **Alcance:** Integración actual y futura de GitHub Copilot (y agentes derivados) con el ecosistema WAIPL y el proyecto WAIPL-Obsidian-Skills.
 
 ---
