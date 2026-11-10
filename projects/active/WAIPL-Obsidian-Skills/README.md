@@ -4,7 +4,8 @@
 **Estado:** En gestación bajo Super Plantilla Maestra Canónica v3.0  
 **Fecha de instanciación de estructura:** 2026-08-10  
 **Soberano:** William Mejías Navarro  
-**Nodo responsable de estructura:** Aether
+**Nodo responsable de estructura:** Aether  
+**Firmas del acta:** 2026-08-10 19:02 CEST, y orden soberana del 2026-11-10 a las 04:55. El texto está en `00-SOBERANIA/ACTA-NACIMIENTO.md`. Las casillas que el acta deja abiertas siguen abiertas. No está integrado en producción.
 
 ---
 
@@ -45,6 +46,8 @@ README.md              → Este manifiesto
 
 ## Checklist de instanciación (pendiente de cierre)
 
+La lista que manda es la del acta. Esta, escrita en el README, no se rellena en silencio.
+
 - [ ] Vault instanciado con las 12 carpetas
 - [ ] Inyectores del ADN aplicados
 - [ ] Aislamiento Dominio A/B verificado
@@ -54,7 +57,7 @@ README.md              → Este manifiesto
 - [ ] Dashboard ICP funcional
 - [ ] 7 NPCs + Runbooks C-01–C-08
 - [ ] Agente de la Verdad asignado
-- [ ] Acta de Nacimiento firmada por el Soberano
+- [x] Acta de Nacimiento firmada por el Soberano (2026-08-10 y 2026-11-10 04:55)
 
 ## Principio rector
 
