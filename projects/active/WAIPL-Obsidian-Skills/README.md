@@ -1,10 +1,11 @@
 # WAIPL-Obsidian-Skills
 
 **Proyecto canónico del ecosistema WAIPL**  
-**Estado:** En gestación bajo Super Plantilla Maestra Canónica v3.0  
+**Estado:** Acta firmada el 2026-08-10 19:02 CEST. No integrado en producción: el acta deja cinco casillas abiertas.  
 **Fecha de instanciación de estructura:** 2026-08-10  
 **Soberano:** William Mejías Navarro  
-**Nodo responsable de estructura:** Aether
+**Nodo responsable de estructura:** Aether  
+**Lista que manda:** `00-SOBERANIA/ACTA-NACIMIENTO.md`. Esta página no es otra lista.
 
 ---
 
@@ -43,18 +44,20 @@ README.md              → Este manifiesto
 - Prompting 2026 → `protocols/PROMPTING-2026-WAIPL.md`
 - Manual de Integración con GitHub Copilot → `protocols/MANUAL-INTEGRACION-COPILOT-WAIPL.md`
 
-## Checklist de instanciación (pendiente de cierre)
+## Checklist de instanciación
 
-- [ ] Vault instanciado con las 12 carpetas
-- [ ] Inyectores del ADN aplicados
-- [ ] Aislamiento Dominio A/B verificado
-- [ ] Nomenclatura y control de duplicados
-- [ ] Agent Skills (Framework Osmani) integrados
-- [ ] Puntos de autonomía simbiótica probados
-- [ ] Dashboard ICP funcional
-- [ ] 7 NPCs + Runbooks C-01–C-08
-- [ ] Agente de la Verdad asignado
-- [ ] Acta de Nacimiento firmada por el Soberano
+La misma del acta. Copiada el 2026-11-10 para que la entrada no contradiga la firma. No se ha marcado ninguna casilla nueva.
+
+- [x] Vault instanciado con las carpetas 00-SOBERANIA a 11-ECOSISTEMA
+- [x] Inyectores del ADN aplicados ("Estate presente en tu presente" y PNL inclusiva)
+- [x] Aislamiento de dominios verificado (Acceso a Dominio A; Dominio B denegado por defecto)
+- [x] Normas de nomenclatura y control de duplicados del explorador integradas (estructura preparada)
+- [ ] Catálogo de Agent Skills (Framework Osmani) integrado en la capa de ejecución
+- [ ] Puntos de interrupción de Autonomía Simbiótica y llamadas Human-in-the-Loop probados
+- [ ] Dashboard ICP HTML funcional alimentado por el script de health-check
+- [ ] Los 7 NPCs creados en 09-MANUALES/ y runbooks C-01 a C-08 validados
+- [ ] Agente de la Verdad asignado y cadena de auditoría conectada a WILLIAM-SCY-01
+- [x] Firmado del Acta de Nacimiento por el Soberano William Mejías Navarro
 
 ## Principio rector
 
