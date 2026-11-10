@@ -45,19 +45,3 @@ Nada que surja de él se considerará integrado en producción hasta que este Ac
 ---
 
 *Firma digital registrada mediante commit en el repositorio WAIPL-OS. Trazabilidad completa garantizada.*
-
----
-
-## FIRMA DEL 2026-11-10
-
-Orden soberana dada por William Mejías Navarro, Soberano del ecosistema WAIPL, el 10 de noviembre de 2026, a las 04:55.
-
-**Qué firma.** Esta acta de nacimiento del proyecto WAIPL-Obsidian-Skills.
-
-**Qué no cierra.** Las cinco casillas abiertas de la lista no se marcan con esta orden. La declaración de esta misma acta dice que nada se considera integrado en producción hasta que la lista esté completa. La firma del 2026-08-10 19:02 CEST permanece. No se borra.
-
-**Identificador de esta firma.** Sigue el patrón ya usado en la firma de agosto. No fue pronunciado por el Soberano: `WMN-ACTA-WAIPL-OS-20261110-0455`.
-
-**Hora.** 04:55, tal como la declaró. El reloj de la sesión en que se dio la orden marca CET.
-
-**Estado:** Firmada por orden soberana del 2026-11-10. No sustituye a la firma anterior.
