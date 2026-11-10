@@ -1,15 +1,3 @@
-# Plantilla de nota
-
-**Qué es.** La forma de una nota del vault. No es un documento del Lab.
-
-**De dónde sale.** Super Plantilla Maestra Canónica v3.0, secciones 4.2, 4.3 y 8. La cabecera YAML es la forma de Obsidian (propiedades). El bloque de concepción es el mandato: propósito, alcance y relación trazable. No está numerado así en la plantilla.
-
-**Qué no es.** No cierra ninguna casilla del acta. No sirve para el Dominio B. El Dominio B es lo personal y está cerrado.
-
-**Nombre del archivo que se cree con esto.** Sección 4.2: `AAAA-MM-DD_proyecto_area_tipo_descripcion_vNN_estado.ext`. Ejemplo de la plantilla: `2026-08-10_waipl_rag_informe_auditoria-fuentes_v01_borrador.md`. Este archivo se llama `NOTA.md` porque es la plantilla, no la nota.
-
----
-
 ---
 tipo: nota
 estado: Borrador
@@ -18,6 +6,16 @@ fecha:
 version: v01
 fuente:
 ---
+
+# Plantilla de nota
+
+**Qué es.** La forma de una nota del vault. No es un documento del Lab.
+
+**De dónde sale.** Super Plantilla Maestra Canónica v3.0, secciones 4.2, 4.3 y 8. La cabecera es la forma de Obsidian: propiedades al inicio del archivo. El bloque de concepción es el mandato: propósito, alcance y relación trazable. No está numerado así en la plantilla.
+
+**Qué no es.** No cierra ninguna casilla del acta. No sirve para el Dominio B. El Dominio B es lo personal y está cerrado.
+
+**Nombre del archivo que se cree con esto.** Sección 4.2: `AAAA-MM-DD_proyecto_area_tipo_descripcion_vNN_estado.ext`. Ejemplo de la plantilla: `2026-08-10_waipl_rag_informe_auditoria-fuentes_v01_borrador.md`. Este archivo se llama `NOTA.md` porque es la plantilla, no la nota.
 
 ## Concepción
 
