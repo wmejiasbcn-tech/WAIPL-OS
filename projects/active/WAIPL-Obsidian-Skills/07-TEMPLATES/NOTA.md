@@ -9,9 +9,9 @@ fuente:
 
 # Plantilla de nota
 
-**Qué es.** La forma de una nota del vault. No es un documento del Lab.
+**Qué es.** La forma de una nota del vault. No es un documento del repositorio `Will-AI-Project-Lab`.
 
-**De dónde sale.** Super Plantilla Maestra Canónica v3.0, secciones 4.2, 4.3 y 8. La cabecera es la forma de Obsidian: propiedades al inicio del archivo. El bloque de concepción es el mandato: propósito, alcance y relación trazable. No está numerado así en la plantilla.
+**De dónde sale.** Super Plantilla Maestra Canónica v3.0, secciones 4.2, 4.3 y 8. La cabecera es la forma de Obsidian: propiedades al inicio del archivo. **PROPUESTO:** el bloque de concepción organiza propósito, alcance y relación trazable; no se presenta como mandato canónico porque no se ha localizado esa formulación en la fuente.
 
 **Qué no es.** No cierra ninguna casilla del acta. No sirve para el Dominio B. El Dominio B es lo personal y está cerrado.
 
@@ -28,7 +28,7 @@ fuente:
 
 ## Fuente
 
-Qué archivo del Lab sostiene lo escrito arriba. Si no hay archivo, no se rellena.
+Qué fuente autorizada del Dominio A respalda lo escrito arriba. Si no hay fuente, no se rellena.
 
 ## Estado
 
@@ -38,13 +38,13 @@ Uno de los ocho de la sección 8. Sale en `Borrador`.
 |---|---|
 | Borrador | En maquetación inicial. |
 | En revisión | Lo comprueba el Agente de la Verdad. |
-| Aprobado | Se puede usar en el RAG del Dominio A. RAG es la búsqueda sobre los documentos del Lab. |
+| Aprobado | Disponible para consumo activo en el RAG del Dominio A. |
 | Aprobado con restricciones | Solo en el ámbito que el documento diga. |
 | Pendiente de decisión | Parado. Hace falta una persona. |
 | Bloqueado | Aislado. Hash distinto, corrupción o sin pruebas. |
 | Rechazado | No cumple el ADN. |
-| Eliminado lógicamente | Fuera de los índices. El registro se conserva. |
+| Eliminado lógicamente | Excluido de los índices activos del RAG, conservando su registro inmutable. |
 
-La sección 4.1 nombra también «Archivado». La sección 8 no. No se usa hasta que el Lab diga cuál manda.
+La sección 4.1 nombra también «Archivado». La sección 8 no. No se usa hasta que se determine cuál prevalece.
 
 Pasar a `Aprobado` no es de este archivo. La sección 5.3 pide confirmación del Soberano o de Carla.
