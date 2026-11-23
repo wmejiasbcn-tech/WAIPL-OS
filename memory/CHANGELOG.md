@@ -63,3 +63,10 @@ El WAIPL-OS pasa a diferenciar explícitamente:
 - Colaboraciones institucionales (`collaborations/`)
 
 Con ello se consolida la evolución del WAIPL-OS hacia un sistema operativo de ingeniería del conocimiento basado en módulos especializados.
+
+## 2026-11-23 — Canon Tabla 49
+
+- Se registra como fuente vigente del inventario WAIPL la Tabla 49 v1.2.5 de SENTINEL.
+- Se documenta la separación de Núcleo, Vórtice, Cinturón de Kuiper y Borde Exterior.
+- Se fija que Vórtice y Cinturón de Kuiper no son la misma posición ni son sinónimos.
+- Se preservan las versiones anteriores como historial; WAIPL-OS referencia la fuente, no mantiene un CSV duplicado.

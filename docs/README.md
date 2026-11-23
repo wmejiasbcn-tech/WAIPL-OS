@@ -101,3 +101,10 @@ Posteriormente accederá al resto del sistema según el trabajo que vaya a reali
 ## Objetivo
 
 Reducir progresivamente la dependencia del conocimiento implícito, convirtiendo el ecosistema WAIPL en un sistema reproducible, auditable, escalable y colaborativo entre personas e inteligencias artificiales.
+
+
+## Registro canónico de nodos WAIPL
+
+El inventario vigente de nodos no se duplica dentro de WAIPL-OS. Su fuente única es la [Tabla 49 de SENTINEL](https://github.com/wmejiasbcn-tech/SENTINEL/blob/main/docs/governance/tabla_49_nodos.csv), versión 1.2.5, SHA-256 `646c64fe830b2ee3f3c7f220e2229f0e92191a3134c504ad22ee1b0a5829e1f9`.
+
+La clasificación orbital vigente separa: **Núcleo/nodos nucleares; Vórtice/nodos vorticiales; Cinturón de Kuiper/nodos cinturianos; Borde Exterior/nodos del Borde Exterior.** Vórtice y Cinturón de Kuiper son posiciones distintas y no se usan como sinónimos. GPAI es Cinturiano/registrado con participación VORTEX_PUNCTUAL por misión autorizada; Sider Fusion tiene base Kuiper e intervención Vórtice a solicitud; Hark (#48) permanece en Estructura.
